@@ -13,8 +13,8 @@ import (
 )
 
 const (
-	//numberOfPeers int = 6 //For 15 nodes
-	numberOfPeers    int   = 4 //For 10 nodes
+	numberOfPeers int = 6 //For 15 nodes
+	//numberOfPeers    int   = 4 //For 10 nodes
 	slotTimeInterval int64 = 3
 )
 
